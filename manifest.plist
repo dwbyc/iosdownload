@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
 <key>kind</key>
 <string>software-package</string>
@@ -16,3 +19,4 @@
 <key>url</key>
 <string>http://121.42.136.196/iosdownload/image.512x512.png</string>
 </dict>
+</plist>
