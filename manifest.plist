@@ -1,18 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>http://dealer.551658.com:8080/iosdownload/CSR201802271104JOUQDB-resigned.ipa</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://dealer.551658.com:8080/iosdownload/CSR201802271104JOUQDB-resigned.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://dealer.551658.com:8080/iosdownload/image.57%C3%9757.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://dealer.551658.com:8080/iosdownload/iamge.512%C3%97512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>org.cocos2dx.DWBYC</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>YDPlaza-mobile</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>url</key>
-<string>http://dealer.551658.com:8080/iosdownload/image.57%C3%9757.png</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>full-size-image</string>
-<key>url</key>
-<string>http://dealer.551658.com:8080/iosdownload/iamge.512%C3%97512.png</string>
-</dict>
+</plist>
