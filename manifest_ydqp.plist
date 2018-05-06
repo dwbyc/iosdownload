@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.551658.com:8080/YDYX/YDQP-IOS.ipa</string>
+					<string>http://dealer.551658.com:8080/YDYX/YDQP-IOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://www.551658.com:8080/YDYX/image.57%C3%9757.png</string>
+					<string>http://dealer.551658.com:8080/YDYX/image.57%C3%9757.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://www.551658.com:8080/YDYX/iamge.512%C3%97512.png</string>
+					<string>http://dealer.551658.com:8080/YDYX/iamge.512%C3%97512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
